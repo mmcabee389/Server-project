@@ -1,0 +1,71 @@
+[{
+  "id": 1,
+  "first_name": "Harbert",
+  "last_name": "Perazzo",
+  "email": "hperazzo0@cpanel.net",
+  "gender": "Male",
+  "ip_address": "8.247.54.115"
+}, {
+  "id": 2,
+  "first_name": "Tate",
+  "last_name": "Earingey",
+  "email": "tearingey1@gmpg.org",
+  "gender": "Female",
+  "ip_address": "87.201.76.133"
+}, {
+  "id": 3,
+  "first_name": "Lorette",
+  "last_name": "Legan",
+  "email": "llegan2@hostgator.com",
+  "gender": "Female",
+  "ip_address": "249.235.38.104"
+}, {
+  "id": 4,
+  "first_name": "Francoise",
+  "last_name": "McGinty",
+  "email": "fmcginty3@goodreads.com",
+  "gender": "Female",
+  "ip_address": "10.9.96.32"
+}, {
+  "id": 5,
+  "first_name": "Valery",
+  "last_name": "Gladwish",
+  "email": "vgladwish4@acquirethisname.com",
+  "gender": "Female",
+  "ip_address": "70.152.16.87"
+}, {
+  "id": 6,
+  "first_name": "Duky",
+  "last_name": "Vasyutochkin",
+  "email": "dvasyutochkin5@weather.com",
+  "gender": "Male",
+  "ip_address": "217.157.168.84"
+}, {
+  "id": 7,
+  "first_name": "Gav",
+  "last_name": "Ridhole",
+  "email": "gridhole6@rambler.ru",
+  "gender": "Male",
+  "ip_address": "227.249.85.17"
+}, {
+  "id": 8,
+  "first_name": "Elly",
+  "last_name": "Loiterton",
+  "email": "eloiterton7@cloudflare.com",
+  "gender": "Female",
+  "ip_address": "90.223.252.207"
+}, {
+  "id": 9,
+  "first_name": "Gerhard",
+  "last_name": "Shattock",
+  "email": "gshattock8@jigsy.com",
+  "gender": "Male",
+  "ip_address": "160.74.126.211"
+}, {
+  "id": 10,
+  "first_name": "Andi",
+  "last_name": "Siddeley",
+  "email": "asiddeley9@soundcloud.com",
+  "gender": "Female",
+  "ip_address": "119.192.133.194"
+}]
